@@ -1,17 +1,6 @@
 # 👋 Hello, I'm Thomas!
 
-const text = "Bonjour et bienvenue sur mon profil GitHub !";
-let index = 0;
-
-function writeText() {
-  document.getElementById("animated-text").innerText = text.slice(0, index);
-  index++;
-  if (index <= text.length) {
-    setTimeout(writeText, 100);
-  }
-}
-
-window.onload = () => writeText();
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenu+sur+mon+profil+!!!)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
