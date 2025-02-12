@@ -14,6 +14,7 @@
 - 🏆 **Bourse Au Projet (BAP)** : Chef de Projet (CDP) d'une équipe de 10 personnes (3 design, 3 dev, 2 marketing, 2 CDP)
 - 🌐 **Refonte de "basket-game.com"** : Conception du cahier des charges pour la refonte d'un site web
 - 📝 **Blog en PHP** : Création d'un système avec gestion d'articles et rôles utilisateur/admin
+- ✅ **To Do List** : Création d'une To Do List permettant d'organiser ses idées avec différents paramètres
 
 ## 🛠️ Tech Stack
 
@@ -21,30 +22,18 @@
 - **Backend** : PHP, MySQL, NodeJS
 - **Frameworks** : Tailwind CSS, Symfony, NextJS
 - **Outils** : Git, GitHub, Arduino IDE
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📫 Contact
 
 - 💌 [Email](durand.thomas765@gmail.com)
 - 🔗 [LinkedIn]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/thomas-durand-002a1428b/))
-- 🌐 [Portfolio](https://tonportfolio.com)
-
-⚡ **Toujours en quête de nouvelles connaissances et challenges !**
-
+<!-- 🌐 [Portfolio](https://tonportfolio.com)-->
 ---
 
 
 
 <!--
-**t-drnd/t-drnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
