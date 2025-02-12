@@ -28,7 +28,7 @@
 ## 📫 Contact
 
 - 💌 [Email](durand.thomas765@gmail.com)
-- 🔗 [LinkedIn]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/thomas-durand-002a1428b/))
+- 🔗 [LinkedIn](https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/thomas-durand-002a1428b/))
 <!-- 🌐 [Portfolio](https://tonportfolio.com)-->
 ---
 
