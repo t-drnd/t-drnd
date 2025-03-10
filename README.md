@@ -9,6 +9,9 @@
 - 📍 Actuellement en apprentissage sur **PHP, SCSS (BEM), Tailwind CSS, Arduino (ESP32)**
 - 🎯 Intéressé par la gestion de projet, les technologies backend et les systèmes embarqués
 
+## Portfolio
+https://portfolio2-bay-psi.vercel.app/
+
 ## 📌 Projects & Experiences
 
 - 🏆 **Bourse Au Projet (BAP)** : Chef de Projet (CDP) d'une équipe de 10 personnes (3 design, 3 dev, 2 marketing, 2 CDP)
